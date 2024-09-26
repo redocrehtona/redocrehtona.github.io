@@ -1,5 +1,5 @@
 # Eric Dawe
-Website in progress 
+Website in progress\n
 
-GitHub: [https://github.com/redocrehtona/](https://github.com/redocrehtona/)
-LinkedIn: [https://uk.linkedin.com/in/environmentaleric/](https://uk.linkedin.com/in/environmentaleric/)
+GitHub: [https://github.com/redocrehtona/](https://github.com/redocrehtona/)\n
+LinkedIn: [https://uk.linkedin.com/in/environmentaleric/](https://uk.linkedin.com/in/environmentaleric/)\n
